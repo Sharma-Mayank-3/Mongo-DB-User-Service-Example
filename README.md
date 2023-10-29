@@ -2,6 +2,7 @@
 
 # Steps
 1. create a class Employee in model package and annotate 
+Note : use string instead of int, since in mongo this work perfectly.
 ```java
 @Document("employee-document")
 
