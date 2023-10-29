@@ -31,3 +31,7 @@ spring.data.mongodb.database=employeedb
 ```java
 EmployeeDto findByEmployeeName(String employeeName);
 ```
+
+# References-Link
+1. https://www.youtube.com/watch?v=iri5LLriFHs&t=1303s&ab_channel=LearnCodeWithDurgesh
+2. https://www.youtube.com/watch?v=AyHNBBK0VAk&ab_channel=LearnCodeWithDurgesh
